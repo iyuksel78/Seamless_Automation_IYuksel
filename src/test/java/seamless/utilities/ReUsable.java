@@ -1,2 +1,6 @@
-package seamless.utilities;public class ReUsable {
+package seamless.utilities;
+
+public class ReUsable {
+
+
 }
