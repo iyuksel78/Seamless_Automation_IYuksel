@@ -1,5 +1,5 @@
 @SEAMLES10-499
-Feature: Default
+Feature: Login functionality of https://qa.seamlessly.net/
 
   Background:
 		#@SEAMLES10-491
